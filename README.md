@@ -1,5 +1,6 @@
 # BootstrapOdev1
 
+```
 Sizden Beklediklerimiz
 * HTML kısmını önceki ödevden alabilirsiniz fakat baştan yapmanızı öneririz.
 * Menüyü koyu renkli olarak düzenleyin. İsterseniz arka plan rengi de verebilirsiniz.
@@ -10,5 +11,6 @@ Sizden Beklediklerimiz
 * Ürün card boyutlarının tamamen aynı olduğuna dikkat edin.
 * Hakkımızda sayfasını da bir card yapısı içine alın.
 * Bootstrap Dökümantasyonu'nu iyi inceleyip farklı elementleri denemeye çalışın.
+```
 
 İstenilenlere uygun olarak bootstrap yapısıyla örnek web sitesi hazırlandı.
